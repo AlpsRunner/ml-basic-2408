@@ -1,2 +1,3 @@
 name = 'Peter'
-print(f'hello {name}')
+print(f'Hi {name}!')
+print('Good day )')
